@@ -1,0 +1,25 @@
+Hierarchy,Title,Project,Releases,Team,Assignee,Sprint,Target start date,Target end date,Due date,Story points,Parent,Priority,Labels,Components,Issue key,Issue status,Progress (%),Progress completed (sp),Progress remaining (sp),Progress (%) issue count (IC),To do IC,In progress IC,Done IC,Total IC
+Story,As a user I will receive confirmation email onceI have registered for the application,HeartDiseasePredictor,,,"srishtiramesh,writetojene",Sprint 1 + Sprint 1 [COMPLETED],24-Oct-22,25-Oct-22,,2,,Medium,,,HEAR-1,Done,0,0,0,0,0,0,0,0
+Story,"As a user, I will receive confirmation email once I have registered for the application",HeartDiseasePredictor,,,"writetojene,haridha1772@gmail.com",Sprint 1 + Sprint 1 [COMPLETED],26-Oct-22,27-Oct-22,,1,,Medium,,,HEAR-2,Done,0,0,0,0,0,0,0,0
+Story,"As a user, I can register for the application through gmail",HeartDiseasePredictor,,,",JessicaTiffanyD",Sprint 1 + Sprint 1 [COMPLETED],28-Oct-22,29-Oct-22,,2,,Medium,,,HEAR-3,Done,0,0,0,0,0,0,0,0
+Story,"As a user, I can log into the application by entering email & password",HeartDiseasePredictor,,,"JessicaTiffanyD, writetojene",Sprint 1 + Sprint 1 [COMPLETED],29-Oct-22,31-Oct-22,,2,,Medium,,,HEAR-4,Done,0,0,0,0,0,0,0,0
+Story,"cloud login-As a user, I can register for the application through cloud",HeartDiseasePredictor,,,"haridha1772@gmail.com,JessicaTiffanyD",Sprint 2 + Sprint 2 [COMPLETED],31-Oct-22,05-Nov-22,,1,,High,,,HEAR-5,Done,0,0,0,0,0,0,0,0
+Story,"
+Building the front end and the login details-Using python to do the front end and sql for the database",HeartDiseasePredictor,,,"srishtiramesh,writetojene",Sprint 3 + Sprint 3 [COMPLETED],07-Nov-22,12-Nov-22,,1,,Medium,,,HEAR-6,Done,0,0,0,0,0,0,0,0
+Story,To write the prediction code in jupyter notebook,HeartDiseasePredictor,,,"writetojene,srishtiramesh2001",Sprint 4 + Sprint 4 [COMPLETED],14-Nov-22,19-Nov-22,,2,,Medium,,,HEAR-7,Done,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Team ID,PNT2022TMID28916,,,,,,,,,,,,,,,,,,,,,,,
+Project Name,Project - Visualizing and Predicting Heart Diseases with an Interactive Dash Board,,,,,,,,,,,,,,,,,,,,,,,
